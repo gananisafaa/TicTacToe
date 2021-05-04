@@ -1,0 +1,12 @@
+Safaa: (0, 0)
+Salma: (0, 1)
+Safaa: (0, 0)
+Salma: (0, 2)
+Safaa: (1, 1)
+Salma: (2, 2)
+Safaa: (1, 2)
+Salma: (1, 0)
+Safaa: (2, 1)
+Salma: (0, 1)
+Safaa: (2, 0)
+Game Over
